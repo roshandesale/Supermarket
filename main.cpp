@@ -1,14 +1,3 @@
-
-AAAAAAAAAAAAAAAAMMMMMMMMMMMMMMMMMMMMMMMMMIIIIIIIIIIIIIIIIIIITTTTTTTTTTTTTTTTTTTTTTTT
-
-
-
-
-
-
-
-
-
 #include<iostream>
 #include<string.h>
 #include<conio.h>
@@ -352,4 +341,3 @@ int main()
     }
     _getch();
 }
-
